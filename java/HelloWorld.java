@@ -9,5 +9,10 @@ public class HelloWorld {
         System.out.println("Ue peppe");
     }
 
+    public void provaPull(){
+        if(c==0)
+            printFrase();
+    }
+
 
 }
