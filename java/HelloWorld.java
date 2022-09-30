@@ -14,5 +14,7 @@ public class HelloWorld {
             printFrase();
     }
 
-
+    public void provaPull(int i){
+        return i;
+    }
 }
